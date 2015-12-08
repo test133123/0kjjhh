@@ -1,3 +1,3 @@
 # 0kjjhh
-Remote 
-remote
+Local
+local
